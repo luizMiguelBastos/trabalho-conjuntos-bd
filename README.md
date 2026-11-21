@@ -11,6 +11,8 @@ Com o banco real de uma loja virtual em PostgreSQL, o trabalho mostra que:
 
 Integrantes: Luiz, Pedro e Matheus.
 
+**Slides da apresentação:** https://claude.ai/artifact/JqBC2E5NpQcPMdyCedT1tr
+
 ## Conteúdo
 
 | Arquivo | Para que serve |
