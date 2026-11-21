@@ -21,6 +21,7 @@ Integrantes: Luiz, Pedro e Matheus.
 | `sql/02_dados.sql` | Insere 4 clientes, 6 pedidos, 5 produtos e 10 itens de pedido |
 | `sql/demo_dbeaver.sql` | Consultas da demonstração, na ordem dos slides, com o resultado esperado em cada comentário |
 | `pdfs/estudo_*.pdf` | Plano de estudo e slides de cada integrante |
+| `pdfs/slides_apresentacao.pdf` | Os 10 slides da apresentação em PDF |
 
 ## Como montar o banco
 
